@@ -24,22 +24,25 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 ### ⚙️ Backend Technologies
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
-### 🗄️ Databases
-<p align="center">
+### 🗄️ Database
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
+<p>
+  SQL | DBMS
+</p>
 
-### 🧰 Tools & Technologies
-<p align="center">
+### 🧰 Tools
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -62,10 +65,10 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashawanth360&theme=tokyonight&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/Yashawanth360/Yashawanth360/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
