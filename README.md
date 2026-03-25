@@ -4,20 +4,20 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Full+Stack+Developer;AI+%26+ML+Learner;Placement+Focused+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Learner;Placement+Focused+Engineer" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Computer Science Engineering Student  
 - 🎯 Preparing for **IT company placements**  
 - 💡 Interested in **Python Development, AI & ML, Full Stack Development**  
-- 🔥 Currently learning **DSA, Machine Learning & Web Development**  
-- 🚀 Focused on building strong coding & problem-solving skills  
+- 🔥 Currently learning **DSA, Python, Machine Learning & Web Development**  
+- 🚀 Focused on building strong development & problem-solving skills  
 
 ---
 
@@ -41,7 +41,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashawanth360&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Yashawanth360&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,6 +89,13 @@
 <p align="center">
   <b>"Consistency beats talent when talent doesn’t work hard."</b>
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+- 🚀 I enjoy building projects and solving coding problems  
+- 🤖 Exploring AI & ML concepts  
 
 ---
 
