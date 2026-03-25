@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K Yashawanth360</h1>
+<h1 align="center">Hi 👋, I'm K Yashawanth</h1>
 <h3 align="center">🚀 Aspiring Developer | 💻 Full Stack Developer | 🐍 Python Developer | 🤖 AI & ML Enthusiast</h3>
 
 ---
@@ -23,8 +23,24 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,html,css,js,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql" />
+</p>
+
+### ⚙️ Backend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -100,5 +116,5 @@
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Yashawanth360">K Yashawanth360</a>
+  ⭐️ From <a href="https://github.com/Yashawanth360">K Yashawanth</a>
 </p>
