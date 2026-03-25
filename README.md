@@ -4,20 +4,20 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Learner;Placement+Focused+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Full+Stack+Developer;AI+%26+ML+Learner;Placement+Focused+Engineer" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Computer Science Engineering Student  
 - 🎯 Preparing for **IT company placements**  
 - 💡 Interested in **Python Development, AI & ML, Full Stack Development**  
-- 🔥 Currently learning **DSA, Python, Machine Learning & Web Development**  
-- 🚀 Focused on building strong development & problem-solving skills  
+- 🔥 Currently learning **DSA, Machine Learning & Web Development**  
+- 🚀 Focused on building strong coding & problem-solving skills  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql" />
 </p>
 
 ### ⚙️ Backend Technologies
@@ -33,12 +33,12 @@
   <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 <p>
-  SQL | DBMS
+  DBMS, SQL
 </p>
 
 ### 🧰 Tools
@@ -57,18 +57,18 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashawanth360&theme=tokyonight&hide_border=true" />
+  <img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashawanth360/Yashawanth360/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=Yashawanth360&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
